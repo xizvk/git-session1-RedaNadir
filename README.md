@@ -18,3 +18,4 @@ console.log("Git Session 1 Completed!");
 
 ## Link
 [GitHub Repository](https://github.com/xizvk/git-session1-RedaNadir)
+// updated app logic
